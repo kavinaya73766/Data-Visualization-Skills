@@ -1,5 +1,6 @@
-## Student Performance Analysis
-# Project Overview
+# WEEK-8 
+# Student Performance Analysis
+## Project Overview
 
 This project analyzes student performance data to understand how different factors affect students' academic scores.
 
@@ -14,7 +15,7 @@ Writing score
 
 The project uses Python, Pandas, Matplotlib, and Seaborn for data analysis and visualization.
 
-# Dataset
+## Dataset
 
 Dataset: studentperformance_preprocessed.csv
 
@@ -30,7 +31,7 @@ math score	Math test score
 reading score	Reading test score
 writing score	Writing test score
 
-# Objectives
+## Objectives
 Compare average test scores across different parental education levels and lunch types.
 Analyze score variation between students who completed test preparation and those who did not.
 Study the relationship between Math and Reading scores.
@@ -39,14 +40,14 @@ Evaluate correlations between Math, Reading, and Writing scores.
 Identify factors that may influence student performance.
 Provide educational equity and policy recommendations.
 
-# Technologies Used
+## Technologies Used
 Python
 Pandas – Data loading and analysis
 Matplotlib – Data visualization
 Seaborn – Statistical visualization
 Google Colab / Jupyter Notebook – Development environment
 
-# Visualizations
+## Visualizations
 1. Grouped Bar Chart
 
 A grouped bar chart is used to compare the average Math score based on:
@@ -91,7 +92,7 @@ Correlation values range from -1 to +1.
 0 → No relationship
 -1 → Strong negative relationship
 
-# Key Analysis
+## Key Analysis
 
 The project evaluates how student performance varies according to parental education, lunch type, and test preparation.
 
@@ -99,7 +100,7 @@ It also examines whether performance in one subject is related to performance in
 
 The visualizations make it easier to identify patterns and differences that may not be obvious from the raw dataset.
 
-# Conclusion
+## Conclusion
 
 This project provides a visual and statistical analysis of student performance. The use of bar charts, box plots, scatter plots, and correlation heatmaps helps understand 
 the factors associated with academic performance.
